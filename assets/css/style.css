@@ -108,6 +108,7 @@ html,body{
 nav.navbar.bootsnav.no-background {
     background-color: #fff;
     border: none;
+    left: 0;
 }
 
 nav.navbar.bootsnav {
